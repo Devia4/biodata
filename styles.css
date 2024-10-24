@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+p, ul, li {
+    font-size: 1.1rem;
+}
+
+header {
+    background-color: #4CAF50;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+section {
+    padding: 40px 0;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+}
+
+ul.list-inline li {
+    font-size: 1.2rem;
+    color: #4CAF50;
+}
